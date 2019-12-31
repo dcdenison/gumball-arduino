@@ -1,5 +1,7 @@
 
 /*
+This is the one that we worked on with Bob and Trevor.
+
  3.3V         VCC              Power
  GND          GND              Ground
  A4           SDA              I2C Data
