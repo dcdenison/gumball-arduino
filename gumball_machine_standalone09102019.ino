@@ -1,3 +1,7 @@
+/*
+An early version that I think worked okay, but we misplaced it for a few weeks.
+*/
+
 #include <Wire.h>
 #include <SparkFun_APDS9960.h>
 #include <Arduino.h>
