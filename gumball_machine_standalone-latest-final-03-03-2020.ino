@@ -1,4 +1,3 @@
-
 /*
 This is the one that we worked on with Bob and Trevor.
  3.3V         VCC              Power
